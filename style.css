@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+}
+
+.fw-bebus {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text-lite-green {
+    background: #A4BC46;
+}
+
+
+/* Menu css */
+
+#check:checked~ul {
+    display: block !important;
+}
